@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "这个全是copy的，还在不断改成Qiu的，敬请期待"
+author:       "Qiu"
 header-style: text
 catalog:      true
 tags:
