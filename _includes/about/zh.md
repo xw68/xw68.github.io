@@ -3,7 +3,7 @@ Hey，我是Qiu（qiu, _@qiu_），一个同时来自农村、小城市和大城
 现为 <del>清华大学</del> 南边某高校 签约小喽啰， [点我点我](https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/111764)，等。
 
 
-目前的物理活动范围主要在China和Australia，也想当个网络游<del>民</del>侠。虚拟分身日常出没于[WX](https://ifyouhave.com)、[QQ](https://www.ifyouhavetoo.com) 等,等等给你个真的[e-mail点我](xw6862@gmail.com),hhhhh.
+目前的物理活动范围主要在China和Australia，也想当个网络游<del>民</del>侠。虚拟分身日常出没于[WX](https://ifyouhave.com)、[QQ](https://www.ifyouhavetoo.com) 等,等等给你个真的[e-mail点我](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=xw6862%40gmail.com&oq=%25E9%2585%25B7%25E5%2584%25BF&rsv_pq=c5aa04e60001a2b5&rsv_t=338acdwAj%2B%2FDOyB336ch0OfG5gpKNXosA7DNajPTPKz3mpz90OOpowEOYSY&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_n=2&rsv_sug3=1&rsv_sug2=0&rsv_btype=t&inputT=888&rsv_sug4=888),hhhhh.
 
 
 ##### 其他
@@ -22,6 +22,6 @@ Hey，我是Qiu（qiu, _@qiu_），一个同时来自农村、小城市和大城
 
 
 [1]: //https://baike.baidu.com/item/%E9%85%B7%E5%84%BF/13521?fromtitle=Qoo&fromid=10716203&fromModule=lemma_search-box/
-[2]: //xw6862@gmail.com/
+[2]: //txt1.057111.xyz/
 [3]: //none/
 
