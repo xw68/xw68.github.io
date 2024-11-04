@@ -21,7 +21,7 @@ Hey，我是Qiu（qiu, _@qiu_），一个同时来自农村、小城市和大城
 -->
 
 
-[1]: //https://m.baidu.com/bh/m/detail/ar_4940896624011357106/
+[1]: //baike.baidu.com/item/%E9%85%B7%E5%84%BF/13521?fromtitle=Qoo&fromid=10716203&fromModule=lemma_search-box/
 [2]: //txt1.668629.xyz/
 [3]: //none/
 
