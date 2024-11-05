@@ -91,12 +91,18 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "cao,czn", href: "http://me/" },
+    { title: "gao,gjj", href: "https://ev/" },
+    { title: "lv,ljx", href: "http://e" },
+    { title: "cheng,crg", href: "https://e/" },
+    { title: "chen,cwc", href: "https://e/" },
+    { title: "cao,cyj", href: "http://t" },
+    { title: "lin,lj", href: "http://te/" },
+    { title: "zhang,zy", href: "http://do" },
+    { title: "hu,htl", href: "http://io/" },
+    { title: "wu,wl", href: "http://me/" },
+    { title: "zhou,zjd", href: "https://ev/" },
+    { title: "ji,jye", href: "http://e" },
+    { title: "ge,gst", href: "http://t" },
+    { title: "yang,yg", href: "http://te/" },
   ]
