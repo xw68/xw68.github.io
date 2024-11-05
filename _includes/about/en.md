@@ -1,2 +1,2 @@
-Hey, I am Qiu, My Enhlish is not pretty good,you can switch to the Chinese version and translate it. hahahahahah sorry.
+Hey, I am Qiu, My English is not very good,you can switch to the Chinese version and translate it. hahahahahah sorry.
 
