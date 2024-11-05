@@ -1,1 +1,3 @@
 to be honest
+可以吧post放到这个other或者新文件夹里
+创建文件夹方法：并在其中添加一个名为“file.txt”的文件，则输入“folder/file.txt”
