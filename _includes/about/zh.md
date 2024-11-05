@@ -10,9 +10,17 @@ Hey，我是Qiu（qiu, _@qiu_），一个同时来自农村、小城市和大城
 
 - [我喜欢Qoo饮料][1] · 可爱有趣吧 · 2005
 - 喜欢摄影
+<img class="shadow" src="/img/p1.jpg" width="260">
+![](/img/p2.jpg)
+![](/img/p3.jpg)
+![](/img/p4.jpg)
+![](/img/p5.jpg)
 - 喜欢骑行
+![](/img/about-qixing1.jpg)
+![](/img/about-qixing2.jpg)
 - 喜欢自驾
 - 喜欢巡航机车
+![](/img/about-jiche.jpg)
 - 喜欢户外
 - 喜欢爬山
 - 喜欢种植
