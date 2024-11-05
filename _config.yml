@@ -3,9 +3,9 @@ title: Qiu Blog
 SEOTitle: 晨近秋的博客 | Qiu Blog
 header-img: img/home-bg.jpg
 email: xw6862@gmail.com
-description: "这里是 @Qiu晨近秋 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "晨近秋, Qiu晨近秋, Qiu, 模仿, Qiujin, @Qiu, 晨近秋的博客, Qiu Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+description: "这里是 @Qiu晨近秋 的个人博客，与你一起发现更大的世界 | 要做一个不再犹豫的人"
+keyword: "晨近秋, Qiu晨近秋, Qiu, 模仿, Qiujin, @Qiu, 晨近秋的博客, Qiu Blog, 博客, 个人网站, 互联网, Web, 摄影, 机车, 户外, 种植, 爬山，骑行"
+url: "txt1.668629.xyz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个不再犹豫的人 <br> React xw6862@gmail.com"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
