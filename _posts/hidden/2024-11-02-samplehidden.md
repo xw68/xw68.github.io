@@ -11,7 +11,7 @@ tags:
 
 <iframe 
   id="chart"
-  src="https:网站"
+  src="https://huangxuan.me/PL-chart/"
   frameborder="0" 
   scrolling="no" 
   style="width: 100%">
