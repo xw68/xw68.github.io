@@ -1,6 +1,6 @@
 ---
-title: "My Programming Languages Spectrum"
-subtitle: "我的编程语言光谱"
+title: "主页隐藏模板，archive可以看"
+subtitle: "sample"
 layout: post
 author: "Hux"
 header-style: text
@@ -16,3 +16,4 @@ tags:
   scrolling="no" 
   style="width: 100%">
 </iframe>
+隐藏开了，仅会在archive里看到记录
