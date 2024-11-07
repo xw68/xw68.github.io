@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "准备中？模板 大标题"
-subtitle: "making！sample小标题"
-date:       2024-11-01 
+title: "从万圣节到圣诞节"
+subtitle: "闲谈杂语"
+date:       2024-11-07 
 author: "Qiu"
-header-img: "img/post-bg-unix-linux.jpg"
-header-style: text
+header-img: "img/bg-archive.jpg"
 catalog: true
 tags:
   - Web
-  - Sample
+  - Talk
 ---
 
 > 题目备注方法外链接[题目备注](https://wwan25)
@@ -54,7 +53,7 @@ var precacheConfig = [
 ![](https://pi0_720w.jpg?source=1940ef5c)
 
 2库应用
-![](/img/in-post/post-nextgen-web-pwa/flipkart-1.jpeg)
+![](/img/20241107/tree.mp4)
 
 3库应用可调大小
 <img class="shadow" src="/img/in-post/post-kuaidi-1.jpg" width="260">
