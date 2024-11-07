@@ -45,7 +45,7 @@ tags:
 我有着幸福的家庭和美满的生活，我会保持自己的真挚和责任，
 遗憾的不应该是我。
 万圣节已过去，还有一个多月圣诞，整点小浪漫 
-[Merry Christmas]()      <<-----点点这个英文试试看,也可以复制这个网址给你的Ta，hhhhh。
+[Merry Christmas](christmas1.668629.xyz)      <<-----点点这个英文试试看,也可以复制这个网址给你的Ta，hhhhh。
 
 如果打不开，下面视频也一样，哈哈哈
 <video src="/img/20241107/tree.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
