@@ -30,67 +30,30 @@ tags:
 纠结，如果早一点，让向日葵开在盛夏，就好了。
 那段时间，总是起起伏伏，
 那首歌是《想你时风起》，
-这两个礼拜，
+这两个礼拜，从开始的煎熬等待到现在的每天转瞬即逝，
+接受不了的是断崖式结束，
+戒断反应总是涌上，
+连消失都是悄无声息，可我以为再见时还能微笑。
 
+##我记得
+最后的约定，因为不同而消散，更何况遥远的期待，
+就封存在抽屉之中，拉与不拉开，取决于任何时间和事件，
+不会转赠，
+![](/img/20241107/chouti.jpg)
+消失不等于遗忘，每时每刻都是过程，都是记忆。
 
+我有着幸福的家庭和美满的生活，我会保持自己的真挚和责任，
+遗憾的不应该是我。
+万圣节已过去，还有一个多月圣诞，整点小浪漫 
+[Merry Christmas]()      <<-----点点这个英文试试看,也可以复制这个网址给你的Ta，hhhhh。
 
+如果打不开，下面视频也一样，哈哈哈
+<video src="/img/20241107/tree.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
+##杀青
 今天中午饭后，与老师师兄步行，瞥见向日葵被砍，消失在了深秋。。。。。。
 ![](/img/20241107/xiangrikui.jpg)
 
 
 
-作为 xx[abc](ht/25167289)与[者](httom/p/27853228)，文字链接写法。
-以下都是主观感受且 opinion is my own。
 
-
-题目重新链接分类？。
--------
-
-## 标题加粗大号字体方法
-**加粗字体**「加粗字体写法」这便是这两年mit 的主旋律了。
-
-adfgadfgad**加粗字体方法**。
-
-
-代码展示方法（我记得空两格写也可以）：
-```js
-// service-worker.tmpl  
-var precacheConfig = <%= precacheConfig %>;
-
-// sw.js  
-var precacheConfig = [  
-  ["js/a.js", "3cb4f0"],   
-  ["css/b.css", "c5a951"]  
-]
-```
-
-图片展示方法：
-1网络链接
-![](https://pi0_720w.jpg?source=1940ef5c)
-
-2库应用
-![](/img/20241107/tree.mp4)
-
-3库应用可调大小
-<img class="shadow" src="/img/20241107/tree.mp4" width="260">
-
-本地视频展现方法
-1
-<video width="320" height="240" controls>
-  <source src="/img/20241107/tree.mp4" type="video/mp4">
-  <source src="/img/20241107/tree.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-2
-<video src="/img/20241107/tree.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
-
-
-另一种表达方式「fdgsdf」xxxx。
-\* 星号真正显示输入方法
-
-**补充两点：**
-
-*   第一点。
-*   第二点。
