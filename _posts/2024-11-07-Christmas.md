@@ -56,7 +56,7 @@ var precacheConfig = [
 ![](/img/20241107/tree.mp4)
 
 3库应用可调大小
-<img class="shadow" src="/img/in-post/post-kuaidi-1.jpg" width="260">
+<img class="shadow" src="/img/20241107/tree.mp4" width="260">
 
 
 
